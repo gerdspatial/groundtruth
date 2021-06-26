@@ -26,7 +26,6 @@ I'm [Gerhard Lanz](https://gerhardla.nz) and this is **Ground Truth**—a daily 
   Powered by <a href="https://buttondown.email" target="_blank">Buttondown</a>.
   </p>
 </form>
-<br>
 <ul>
   {% for post in site.posts %}
     <li>
